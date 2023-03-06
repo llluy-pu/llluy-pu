@@ -2,7 +2,7 @@
 
 | Circle | Project                                                                              |                                      Score                                       |
 | :----: | :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------: |
-|   01   | [**Libft**](https://github.com/jwon42/42cursus_01_Libft)                             | ![](https://badge42.vercel.app/api/v2/clex71b1p00400fldpmfkwxuf/project/2802129) |
+|   01   | [**Libft**](https://github.com/llluy-pu/libft)                             | ![](https://badge42.vercel.app/api/v2/clex71b1p00400fldpmfkwxuf/project/2802129) |
 
 ---
 
