@@ -8,6 +8,7 @@
 |    1.2   | [**Born2beroot**](https://github.com/llluy-pu/born2beroot)                           | ![](https://badge42.vercel.app/api/v2/clex71b1p00400fldpmfkwxuf/project/3016259) |
 |    2.0   | [**pushswap**](https://github.com/llluy-pu/push_swap)                                | ![](https://badge42.vercel.app/api/v2/clex71b1p00400fldpmfkwxuf/project/3109671) |
 |    2.1   | [**pipex**](https://github.com/llluy-pu/pipex)                                       | ![](https://badge42.vercel.app/api/v2/clex71b1p00400fldpmfkwxuf/project/) |
+|    2.2   | [**so_long**](https://github.com/llluy-pu/so_long)                                | ![](https://badge42.vercel.app/api/v2/clex71b1p00400fldpmfkwxuf/project/3109671) |
 
 ---
 
